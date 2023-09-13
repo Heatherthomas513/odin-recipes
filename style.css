@@ -18,6 +18,7 @@ h1 {
 ul {
     font-size: 18px;
     display: inline;
+    list-style-type: none;
 }
 
 li {
